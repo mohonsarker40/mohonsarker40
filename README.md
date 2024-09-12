@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="150" src="/"  />
-  <img height="150" src="https://github.com/mohonsarker40/mohonsarker40/blob/main/cover.png"  />
+  <img height="250" src="https://github.com/mohonsarker40/mohonsarker40/blob/main/cover.png"  />
 </div>
 
 ###
