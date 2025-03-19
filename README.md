@@ -79,5 +79,4 @@
 ###
 
 <div align="center">
-   (https://streak-stats.mohonsarker40.com/?user=MohonSarker40)](https://git.io/mohonsarker40)
-</div>
+[![GitHub Streak](https://github.com/mohonsarker40))]</div>
