@@ -79,5 +79,5 @@
 ###
 
 <div align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohonsarker40&theme=dark&border_radius=5.5" alt="GitHub Streak" /></a>
+   (https://streak-stats.mohonsarker40.com/?user=MohonSarker40)](https://git.io/mohonsarker40)
 </div>
