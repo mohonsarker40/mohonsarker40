@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm an intern at TMSS ICT.<br><br>- 🔭 I’m working as an intern learning full-stack development.<br>- 📚 I'm currently learning more advanced Laravel and Vue.js.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
+<p align="left">I'm a Developer at TMSS ICT.<br><br>- 🔭 I’m working as a Software Developer learning full-stack development.<br>- 📚 I'm currently learning more advanced Laravel and Vue.js.<br>- ⚡ In my free time, I like to explore new technologies and improve my problem-solving skills.</p>
 
 ###
 
