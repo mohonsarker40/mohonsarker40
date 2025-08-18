@@ -46,6 +46,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="Vue.js logo" />
   </a>
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer" style="outline: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" height="40" alt="Ionic logo" />
+</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
   </a>
